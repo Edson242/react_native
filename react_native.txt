@@ -1,0 +1,21 @@
+ -- React Native --
+
+Framework criando pelo Facebook
+
+Componentes:
+
+ - Básico:
+
+  > View
+  > Image
+  > Scrollview
+  > Text
+  > Text Input
+  > Stylesheet
+
+ - Interface do Usuário:
+
+  > Button
+  > Switch
+
+  
